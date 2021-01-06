@@ -1,0 +1,181 @@
+.topnav {
+    overflow:hidden;
+    float:right;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration:none;
+    padding:1px 90px;
+  }
+  .topnav a{
+    float:left;
+    padding: 15px 15px;
+    font-size: 17px;
+
+}
+section{
+    width:100%;
+    height:500px;
+}   
+.half-width{
+    width:38%;
+    float:left;
+    margin:5%;
+    padding:1%;
+    
+}
+.introducing{
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0px;
+}
+#namecolor{
+    color:#FF8367;
+    
+}
+.half-width img{
+    width:100%;
+
+}
+
+.link-button{
+    text-decoration: none;
+    color:white;
+    border-radius:5px;
+    background-color: #ff8367;
+    font-weight: 800;
+    padding:10px 30px;
+    position: absolute;
+  
+}
+
+.latest-work-section{
+    background-color: #ebe6e646;
+
+}
+#latest-work{
+    text-align:center;
+    padding:50px;
+    text-transform: uppercase;
+
+}
+
+
+.latest-list{
+  padding: 10px  10px 10px 40px;
+   
+
+}
+.work-box{
+    box-shadow:10px 10px  40px gray;
+    border-radius: 5px;
+    height:70%;
+    width:25%;
+    background-color: white;
+    float:left;
+    margin-left:25px;
+
+
+}
+
+.website-photo{
+    width:90%;
+    height:50%;
+    padding:5px 5px 5px 5px;
+        
+}
+.future-cafe{
+    background-color: rgb(213, 216, 218);
+    padding:5px 5px;
+    border-radius: 10px;
+}
+.markeitng{
+
+    background-color:rgba(12, 49, 211, 0.63);
+    padding:5px 5px;
+    border-radius: 10px;
+
+}
+.art-factory{
+    background-color:rgb(215, 131, 248);
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+.hilighting{
+    color: #ff8367;
+    font-weight: 800;
+    
+}
+#Language-skill{
+    text-align: center;
+    margin-top: 150px;
+    font-weight:bold;
+    font-size: xx-large;
+    color:red;
+
+}
+
+.language-name{
+    font-weight: bold;
+    color:red;
+}
+.back-image{
+    background-image: url("images/chat-background.png");
+    background-position: center;
+    background-size: 700px 100px;
+    background-repeat: no-repeat;
+}
+.work-inquiry{
+    width: 50%;
+    float: right;
+    padding:150px 5px;
+    color: white;
+    font-size:large;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}  
+.chat-text{
+    text-align:center;
+    color:white;
+    padding:150px 5px ;
+  
+    
+}
+.chat-button{
+    text-decoration: none;
+    color:white;
+    border-radius:5px;
+    background-color: #ff8367;
+    padding:10px 30px;
+  
+}
+
+.footer-content{
+    text-align:center;
+    margin:0px;
+    padding:0px;
+}
+.stay-slogan{
+    text-transform: uppercase;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+#hello{
+    font-weight: 800;
+    font-size:x-large;
+}
+.icons{
+    width:30px;
+    height:30px;
+    
+}
+.icon-tab{
+    text-align: center;
+    
+}
+
+.copyright{
+    text-align: center;
+    background-color: rgb(158, 158, 158);
+    color:white;
+}
